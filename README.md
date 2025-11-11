@@ -1,3 +1,3 @@
-# tango2350
+# Halogen32
 
-A basic RP2350 carrier board with USB-C, STEMMA-QT
+Basic arm MCU development board design with USB-C, STEMMA-QT, and JTAG.
