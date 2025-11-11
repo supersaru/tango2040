@@ -7,7 +7,7 @@ Basic arm MCU development board design with USB-C, STEMMA-QT, and JTAG.
   - [x] Boot switch
   - [ ] Reset Switch
   - [ ] USB-C
-  - [ ] USB JTAG programming
+  - [ ] SWD programming
   - [ ] Neopixel status LED
   - [ ] STEMMA-QT
   - [ ] PSRAM
