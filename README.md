@@ -1,6 +1,6 @@
 # Halogen32
 
-Basic arm MCU development board design with USB-C, STEMMA-QT, and JTAG. Designed to mimic Adafruit feather formfactor.
+Basic arm MCU development board design with USB-C, STEMMA-QT, and JTAG. Designed to mimic Adafruit feather form factor.
 
 - Features
   - [x] STM32F411
