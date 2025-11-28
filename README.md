@@ -10,4 +10,6 @@ Basic arm MCU development board design with USB-C, STEMMA-QT, and SWD debugging.
   - [x] SWD programming
   - [x] Neopixel status LED
   - [x] STEMMA-QT
-  - [ ] PSRAM
+  - [ ] GPIO
+  - [ ] Battery Managment
+  - [ ] PCB Design
